@@ -4,6 +4,9 @@
 
 ## Computational Techniques for Star Trail Removal ​from Long-Exposure Astrophotography ​</span>
 
+![Example](https://github.com/GSNikhil/star-trail-removal/blob/main/Data/example.png)
+
+
 </div>
 
 ## <div align="center"><span style="color: #e67e22;">Team Members</span></div>
