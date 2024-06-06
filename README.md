@@ -2,7 +2,7 @@
 
 # <span>ECE 285: Computational Imaging Systems - Final Project 
 
-## Computational Techniques for Star Trail Removal ​from Long-Exposure Astrophotography ​</span>
+## Turning Back Time: Computational Techniques for Star Trail Removal ​from Long-Exposure Astrophotography ​</span>
 
 ![Example](https://github.com/GSNikhil/star-trail-removal/blob/main/Data/example.png)
 
