@@ -13,9 +13,11 @@
 - **<span style="color: #e74c3c;">Nikhil Gandudi Suresh</span>**
 - **<span style="color: #e74c3c;">Avanti Bhandarkar</span>**
 
-Our presentation: ECE285_Slides.pdf <br>
-Our project proposal: ECE285_Proposal.pdf <br>
-Our project report: TO ADD
+## <div align="center"><span style="color: #e67e22;">Documents</span></div>
+
+[Presentation Slides](https://github.com/GSNikhil/star-trail-removal/blob/main/Documents/ECE285_Slides.pdf) <br>
+[Project Proposal](https://github.com/GSNikhil/star-trail-removal/blob/main/Documents/ECE285_Proposal.pdf) <br>
+Project Report: TO ADD 
 
 ## <div align="center"><span style="color: #e67e22;">File Structure</span></div>
 * `Data` stores all the images we used for this project (real and synthetic).
