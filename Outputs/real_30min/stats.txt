@@ -1,7 +1,0 @@
-Method	PSNR	SIMM
-wiener_recon	17.381	0.15883
-rl_recon	15.748	0.13375
-gd_recon	8.5308	0.13218
-fista_recon	15.324	0.01104
-gd_fista_tikhonov_recon	17.696	0.23713
-gd_fista_tv_recon	17.696	0.23713
