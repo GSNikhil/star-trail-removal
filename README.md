@@ -21,12 +21,12 @@ Our project report: TO ADD
   * `synthetic` - randomly generated pixel image
   * `timed` - all images with time of exposure metadata available
 
-* `Documents` stores all our submitted documents
+* `Documents` - stores all our submitted documents
   * `Proposal` 
   * `Report` - TO ADD
   * `Slides`
 
-* `Notebooks` stores our Jupyter Notebooks
+* `Notebooks` - stores our Jupyter Notebooks
   * `image_recovery` - recover the real image with star trails removed + replaced with reconstruction
   * `main` - contains all the utils functions, preprocessing pipeline, deconvolution manager and some outputs (real and synthetic)
   * `star_clustering` - K Means binary clustering and user center selection code
