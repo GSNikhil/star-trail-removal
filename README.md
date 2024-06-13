@@ -17,7 +17,6 @@
 
 [Presentation Slides](https://github.com/GSNikhil/star-trail-removal/blob/main/Documents/ECE285_Slides.pdf) <br>
 [Project Proposal](https://github.com/GSNikhil/star-trail-removal/blob/main/Documents/ECE285_Proposal.pdf) <br>
-Project Report: TO ADD 
 
 ## <div align="center"><span style="color: #e67e22;">File Structure</span></div>
 * `Data` stores all the images we used for this project (real and synthetic).
