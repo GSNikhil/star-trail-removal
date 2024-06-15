@@ -6,7 +6,7 @@
 
 ![Example](https://github.com/GSNikhil/star-trail-removal/blob/main/Data/example.png)
 ![Synthetic examples](https://github.com/GSNikhil/star-trail-removal/blob/main/Data/comp.png)
-
+Deconvolution Results. A - Original Image, B - Wiener Deconvolution, C - Richardson-Lucy Deconvolution, D - Vanilla Gradient Descent, E - FISTA, F - FISTA + TV, G - ADMM, H - ADMM + TV
 
 </div>
 
