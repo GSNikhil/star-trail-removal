@@ -5,6 +5,7 @@
 ## Turning Back Time: Computational Techniques for Star Trail Removal ​from Long-Exposure Astrophotography ​</span>
 
 ![Example](https://github.com/GSNikhil/star-trail-removal/blob/main/Data/example.png)
+![Synthetic examples](https://github.com/GSNikhil/star-trail-removal/blob/main/Data/comp.png)
 
 
 </div>
